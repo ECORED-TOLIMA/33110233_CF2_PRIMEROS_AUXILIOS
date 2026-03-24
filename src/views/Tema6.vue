@@ -39,7 +39,7 @@
           p.mb-0.text-center La prioridad siempre es proteger la vida, sin generar daño adicional.
     separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 6.1 Técnicas básicas
+      h2 6.1 Técnicas básicas de movilización
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-3
         figure

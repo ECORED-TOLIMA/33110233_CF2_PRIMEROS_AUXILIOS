@@ -82,7 +82,11 @@ export default {
             titulo: 'Reanimación cardiopulmonar (adulto, niño y lactante)',
             hash: 't_4_1',
           },
-          { numero: '4.2', titulo: 'Uso del DEA', hash: 't_4_2' },
+          {
+            numero: '4.2',
+            titulo: 'Uso del Desfibrilador Externo Automático (DEA)',
+            hash: 't_4_2',
+          },
           {
             numero: '4.3',
             titulo: 'Obstrucción de vía aérea por cuerpo extraño (OVACE)',
@@ -109,7 +113,11 @@ export default {
         titulo: 'Movilización y traslado',
         desarrolloContenidos: true,
         subMenu: [
-          { numero: '6.1', titulo: 'Técnicas básicas', hash: 't_6_1' },
+          {
+            numero: '6.1',
+            titulo: 'Técnicas básicas de movilización',
+            hash: 't_6_1',
+          },
           { numero: '6.2', titulo: 'Uso de tabla espinal', hash: 't_6_2' },
         ],
       },
@@ -126,7 +134,11 @@ export default {
         titulo: 'Lesiones por agentes externos',
         desarrolloContenidos: true,
         subMenu: [
-          { numero: '8.1', titulo: 'Térmicos y eléctricos', hash: 't_8_1' },
+          {
+            numero: '8.1',
+            titulo: 'Agentes térmicos y eléctricos',
+            hash: 't_8_1',
+          },
           { numero: '8.2', titulo: 'Intoxicaciones', hash: 't_8_2' },
           { numero: '8.3', titulo: 'Picaduras y mordeduras', hash: 't_8_3' },
           { numero: '8.4', titulo: 'Cuerpos extraños', hash: 't_8_4' },

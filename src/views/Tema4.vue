@@ -145,7 +145,7 @@
             i.fas.fa-file-video
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.2 Uso del DEA
+      h2 4.2 Uso del Desfibrilador Externo Automático (DEA)
     .row.justify-content-center.align-items-stretch.mb-5.g-0
       .col-lg-7.col-12.order-lg-2.order-2
         .cajon.C04.p-4.h-100.w-100

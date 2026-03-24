@@ -46,7 +46,7 @@
           p.mb-0 Es importante tener en cuenta que algunas lesiones por agentes externos pueden producir efectos tardíos. Por ello, incluso cuando los síntomas iniciales parecen leves, se debe mantener vigilancia y orientar la valoración médica cuando sea necesario.
     separador
     #t_8_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 8.1 Térmicos y eléctricos
+      h2 8.1 Agentes térmicos y eléctricos
     p.mb-4(data-aos="fade-down") La exposición a temperaturas extremas o a corriente eléctrica puede comprometer la regulación térmica, la función cardiovascular y la integridad de los tejidos. A continuación, se presentan sus principales características y el manejo inicial en primeros auxilios:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
