@@ -360,8 +360,7 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social. (2018). <em>Resolución 3280 de 2018, por medio de la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención en Salud Materno Perinatal y se establecen las directrices para su operación</em>.',
-      link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%203280%20de%202018.pdf',
+      link: '',
     },
     {
       referencia:

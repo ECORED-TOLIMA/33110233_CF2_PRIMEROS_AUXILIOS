@@ -56,7 +56,7 @@
           img(src='@/assets/curso/tema10/img09.svg', alt='Imagen decorativa')
       .col.col-lg-8.col-12.order-lg-1.order-2
         .cajon.cajon.C02.color-secundario.px-4.py-3.mb-3
-          p.mb-0(data-aos="fade-down") La identificación temprana de estos cambios permite priorizar acciones inmediatas y comunicar la situación de forma clara y precisa al personal de emergencias, facilitando la continuidad de la atención.
+          p.mb-0(data-aos="fade-down") #[b La identificación temprana] de estos cambios permite priorizar acciones inmediatas y comunicar la situación de forma clara y precisa al personal de emergencias, facilitando la continuidad de la atención.
         p.mb-0(data-aos="fade-down") El proceso de primeros auxilios concluye con la entrega organizada del paciente al personal de salud. Esta fase es clave para asegurar la continuidad del cuidado y minimizar riesgos derivados de información incompleta o interpretaciones personales. La comunicación debe ser clara, objetiva y estructurada, evitando suposiciones no verificadas.
     p.text-center.mb-4(data-aos="fade-down") Durante la transferencia, se recomienda proporcionar información relevante sobre:
     .row.mb-4(data-aos="flip-up")

@@ -378,7 +378,7 @@
       .col.col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
-          span Esquema SAMPLE
+          span Valores orientativos de signos vitales por grupos etarios
         .tabla-a.color-acento-contenido
           table
             thead

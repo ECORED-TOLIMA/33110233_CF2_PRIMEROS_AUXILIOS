@@ -56,7 +56,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img08.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0(data-aos="fade-down") Las heridas corresponden a la pérdida de continuidad de la piel o de las mucosas como consecuencia de un agente externo. Generalmente se acompañan de dolor, sangrado y riesgo de contaminación. Su gravedad depende de la profundidad, extensión, mecanismo de lesión y estructuras comprometidas.
+        p.mb-0(data-aos="fade-down") Las #[b heridas] corresponden a la pérdida de continuidad de la piel o de las mucosas como consecuencia de un agente externo. Generalmente se acompañan de dolor, sangrado y riesgo de contaminación. Su gravedad depende de la profundidad, extensión, mecanismo de lesión y estructuras comprometidas.
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12.mb-4
         .tarjeta.tarjeta--C03.px-4.py-3
@@ -207,7 +207,7 @@
       .col-lg-7.col-12.order-lg-2.order-2
         .cajon.C04.p-4.h-100.w-100
           .row.justify-content-center
-            p.mb-2 Signos de alarma: la pérdida importante de sangre puede generar <em>shock</em> hipovolémico. El primer respondiente debe vigilar la aparición de:
+            p.mb-2 #[b Signos de alarma]: la pérdida importante de sangre puede generar <em>shock</em> hipovolémico. El primer respondiente debe vigilar la aparición de:
             .col.col-lg-8.col-12.mb-2
               .tarjeta.tarjeta--blanca.px-4.py-3
                 ul.lista-ul.mb-0
