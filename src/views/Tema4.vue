@@ -109,8 +109,8 @@
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Utilizar tan pronto esté disponible.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Utilizar con parches pediátricos si están disponibles.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Utilizar con parches pediátricos si están disponibles.
-    .row.BG01.justify-content-center.pt-5.pb-0.mb-4
-      .col.col-lg-3.col-8.order-lg-2.order-2.mb-lg-0.mb-lg-3.mb-4
+    .row.BG01.justify-content-center.align-items-center.p-5.mb-0
+      .col.col-lg-3.col-8.order-lg-2.order-2.mb-lg-0.mb-lg-4.mb-4
         figure
           img(src='@/assets/curso/tema4/img09.svg', alt='Imagen decorativa')
       .col.col-lg-7.col-12.order-lg-2.order-2.mb-lg-4
@@ -131,7 +131,7 @@
                 li
                   i.fas.fa-briefcase-medical
                   p.mb-0 El entorno se torne inseguro y represente riesgo para el primer respondiente.
-      p.order-3.mb-4(data-aos="fade-down") La reanimación cardiopulmonar constituye una intervención crítica que exige técnica adecuada, rapidez y seguridad en la ejecución. La calidad de las compresiones es el factor determinante en la supervivencia durante un paro cardiorrespiratorio, de acuerdo con los lineamientos de la American Heart Association.
+      p.order-3.mb-0(data-aos="fade-down") La reanimación cardiopulmonar constituye una intervención crítica que exige técnica adecuada, rapidez y seguridad en la ejecución. La calidad de las compresiones es el factor determinante en la supervivencia durante un paro cardiorrespiratorio, de acuerdo con los lineamientos de la American Heart Association.
     .tarjeta.tarjeta--C05.p-4
       .row.justify-content-around.align-items-center
         .col.col-lg-1.d-none.d-lg-block
@@ -159,8 +159,8 @@
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/tema4/img12.png', alt='Imagen decorativa')
-    .row.BG01.justify-content-center.pt-5.pb-0.mb-4
-      .col.col-lg-3.col-8.order-lg-2.order-2.mb-lg-0.mb-lg-3.mb-4
+    .row.BG01.justify-content-center.align-items-center.p-5.mb-0
+      .col.col-lg-3.col-8.order-lg-2.order-2.mb-lg-0.mb-lg-4.mb-4
         figure
           img(src='@/assets/curso/tema4/img13.svg', alt='Imagen decorativa')
       .col.col-lg-7.col-12.order-lg-1.order-2.mb-lg-4

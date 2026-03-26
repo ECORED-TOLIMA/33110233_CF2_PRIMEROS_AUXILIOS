@@ -257,44 +257,46 @@
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Sudoración excesiva
-    p.mb-4(data-aos="fade-down") Actuación general del primer respondiente:
-    .BG02.mb-4(data-aos="flip-up")
-      .row.justify-content-center.align-items-center(data-aos="fade-down")
-        .col-lg-4.d-none.d-lg-block.py-3.px-5
-          figure(data-aos="zoom-in")
-            img(src="@/assets/curso/tema8/img16.png", alt="Imagen decorativa")
-        .col-lg-8
-          SlyderF.custom.color-acento-botones(columnas="col-lg-6 col-xl-4")
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema8/img17.svg", alt="Imagen decorativa").img100.m-auto
-              p Identificar la sustancia causante, conservando envases o etiquetas para informar al personal médico.
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema8/img18.svg", alt="Imagen decorativa").img100.m-auto
-              p No inducir el vómito a menos que sea indicado por un profesional de salud o centro toxicológico.
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema8/img19.svg", alt="Imagen decorativa").img100.m-auto
-              p No administrar alimentos ni líquidos sin indicación especializada.
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema8/img20.svg", alt="Imagen decorativa").img100.m-auto
-              p En casos de inhalación, trasladar al paciente a un lugar ventilado y seguro.
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema8/img21.svg", alt="Imagen decorativa").img100.m-auto
-              p Vigilar signos vitales de forma continua (respiración, pulso, nivel de conciencia).
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema8/img22.svg", alt="Imagen decorativa").img100.m-auto
-              p Activar inmediatamente el sistema de emergencias.
+    p.mb-0(data-aos="fade-down") Actuación general del primer respondiente:
+    .row
+      .col-12
+        .px-5.py-4
+          .row.align-items-center.BG02(data-aos="fade-down")
+            .col-lg-4.d-none.d-lg-block.py-3.px-5
+              figure(data-aos="zoom-in")
+                img(src="@/assets/curso/tema8/img16.png", alt="Imagen decorativa")
+            .col-lg-8.p-5
+              SlyderF.custom.color-acento-botones.p-4(columnas="col-lg-6 col-xl-4")
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema8/img17.svg", alt="Imagen decorativa").img100.m-auto
+                  p Identificar la sustancia causante, conservando envases o etiquetas para informar al personal médico.
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema8/img18.svg", alt="Imagen decorativa").img100.m-auto
+                  p No inducir el vómito a menos que sea indicado por un profesional de salud o centro toxicológico.
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema8/img19.svg", alt="Imagen decorativa").img100.m-auto
+                  p No administrar alimentos ni líquidos sin indicación especializada.
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema8/img20.svg", alt="Imagen decorativa").img100.m-auto
+                  p En casos de inhalación, trasladar al paciente a un lugar ventilado y seguro.
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema8/img21.svg", alt="Imagen decorativa").img100.m-auto
+                  p Vigilar signos vitales de forma continua (respiración, pulso, nivel de conciencia).
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema8/img22.svg", alt="Imagen decorativa").img100.m-auto
+                  p Activar inmediatamente el sistema de emergencias.
     p.mb-4(data-aos="fade-down") Además de las medidas básicas de actuación, el primer respondiente debe considerar aspectos adicionales que contribuyen a la seguridad del paciente y del personal, así como a la efectividad del manejo inicial. Entre estas consideraciones se incluyen:
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-12.col-lg.mb-5.mb-lg-0(data-aos="flip-up")

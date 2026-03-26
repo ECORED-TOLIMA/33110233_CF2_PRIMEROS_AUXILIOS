@@ -112,8 +112,8 @@
       .col-lg-auto.col-9.titulo01(style="z-index:1")
         .p-2
           h3.mb-0.ms-3 b) Prevención de la hipotermia
-    .row.BG01.justify-content-center.pt-5.pb-4.mb-4
-      .col.col-lg-3.col-8.order-lg-1.order-1.mb-lg-0.mb-lg-3.mb-4
+    .row.BG01.justify-content-center.align-items-center.p-5.mb-0
+      .col.col-lg-3.col-8.order-lg-1.order-1.mb-lg-0.mb-lg-4.mb-4
         figure
           img(src='@/assets/curso/tema9/img12.svg', alt='Imagen decorativa')
       .col.col-lg-7.col-12.order-lg-2.order-2.mb-lg-4

@@ -44,8 +44,8 @@
         .tarjeta.tarjeta--C01.px-4.py-3.mb-2
           p.mb-0 Estos lineamientos orientan la conducta del primer respondiente y refuerzan la necesidad de actuar bajo el criterio de precaución universal.
     p.mb-0(data-aos="fade-down") Además de aplicar estos principios, es indispensable reconocer que el manejo seguro de fluidos corporales y de los materiales utilizados durante la atención constituye una medida clave para prevenir la contaminación cruzada. La exposición directa a sangre, secreciones o elementos contaminados puede representar un riesgo de transmisión de agentes infecciosos, especialmente en escenarios prehospitalarios donde no siempre se cuenta con condiciones ideales.
-    .row.BG01.justify-content-center.pt-5.pb-0.mb-4
-      .col.col-lg-3.col-8.order-lg-2.order-2.mb-lg-0.mb-lg-3.mb-4
+    .row.BG01.justify-content-center.align-items-center.p-5.mb-0
+      .col.col-lg-3.col-8.order-lg-2.order-2.mb-lg-0.mb-lg-4.mb-4
         figure
           img(src='@/assets/curso/tema2/img06.svg', alt='Imagen decorativa')
       .col.col-lg-7.col-12.order-lg-2.order-2.mb-lg-5

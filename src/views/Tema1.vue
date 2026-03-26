@@ -43,7 +43,7 @@
           figure.movil
             img(src='@/assets/curso/tema1/img05.svg', alt='La figura 1 describe la estructura general del sistema cardiovascular, identificando el corazón como órgano central y los principales vasos sanguíneos: arterias, venas y capilares. También representa el recorrido de la sangre a través de las cavidades cardíacas y su distribución hacia la circulación pulmonar y sistémica.')
             figcaption Nota. Tomado de Órganos animales: cardiovascular, por Universidad de Vigo (2025).
-    p.mb-4(data-aos="fade-down") La figura presenta el corazón como órgano central del sistema circulatorio y evidencia la relación funcional entre arterias, venas y capilares. Las arterias conducen la sangre desde el corazón hacia los tejidos, las venas permiten su retorno y los capilares facilitan el intercambio de gases y nutrientes a nivel celular.
+    p.mb-4(data-aos="fade-down") La figura presenta el corazón como órgano central del sistema cardiovascular y evidencia la relación funcional entre arterias, venas y capilares. Las arterias conducen la sangre desde el corazón hacia los tejidos, las venas permiten su retorno y los capilares facilitan el intercambio de gases y nutrientes a nivel celular.
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .cajon.cajon.C02.color-secundario.p-4
@@ -105,34 +105,36 @@
       .col.col-lg-10.col-12
         .cajon.cajon.C02.color-secundario.p-4
           p.mb-0(data-aos="fade-down") Este esquema permite comprender el recorrido del aire desde su ingreso por la vía aérea hasta su llegada a los alvéolos pulmonares, estructuras especializadas responsables de la oxigenación sanguínea y la eliminación de dióxido de carbono.
-    p.mb-4(data-aos="fade-down") En el contexto de los primeros auxilios, la valoración del sistema respiratorio constituye una prioridad dentro de la evaluación inicial del paciente. No basta con confirmar la presencia de respiración; es necesario analizar su calidad y eficacia. Para ello, el primer respondiente debe considerar:
-    .BG02.mb-4(data-aos="flip-up")
-      .row.justify-content-center.align-items-center(data-aos="fade-down")
-        .col-lg-4.d-none.d-lg-block.py-3.px-5
-          figure(data-aos="zoom-in")
-            img(src="@/assets/curso/tema1/img13.png", alt="Imagen decorativa")
-        .col-lg-8
-          SlyderF.custom.color-acento-botones(columnas="col-lg-6 col-xl-6")
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema1/img14.svg", alt="Imagen decorativa").img100.m-auto
-              p La frecuencia respiratoria.
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema1/img15.svg", alt="Imagen decorativa").img100.m-auto
-              p La profundidad y el ritmo del patrón ventilatorio.
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema1/img16.svg", alt="Imagen decorativa").img100.m-auto
-              p La presencia de sonidos respiratorios anormales.
-            .tarjeta.tarjeta--slyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6.col-lg-8
-                  img(src="@/assets/curso/tema1/img17.svg", alt="Imagen decorativa").img100.m-auto
-              p Signos evidentes de dificultad respiratoria, como tiraje intercostal, aleteo nasal o cianosis.
+    p.mb-0(data-aos="fade-down") En el contexto de los primeros auxilios, la valoración del sistema respiratorio constituye una prioridad dentro de la evaluación inicial del paciente. No basta con confirmar la presencia de respiración; es necesario analizar su calidad y eficacia. Para ello, el primer respondiente debe considerar:
+    .row
+      .col-12
+        .px-5.py-4
+          .row.align-items-center.BG02(data-aos="fade-down")
+            .col-lg-4.d-none.d-lg-block.py-3.px-5
+              figure(data-aos="zoom-in")
+                img(src="@/assets/curso/tema1/img13.png", alt="Imagen decorativa")
+            .col-lg-8.p-5
+              SlyderF.custom.color-acento-botones.p-4(columnas="col-lg-6 col-xl-6")
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema1/img14.svg", alt="Imagen decorativa").img100.m-auto
+                  p La frecuencia respiratoria.
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema1/img15.svg", alt="Imagen decorativa").img100.m-auto
+                  p La profundidad y el ritmo del patrón ventilatorio.
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema1/img16.svg", alt="Imagen decorativa").img100.m-auto
+                  p La presencia de sonidos respiratorios anormales.
+                .tarjeta.tarjeta--slyder.p-4
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-8
+                      img(src="@/assets/curso/tema1/img17.svg", alt="Imagen decorativa").img100.m-auto
+                  p Signos evidentes de dificultad respiratoria, como tiraje intercostal, aleteo nasal o cianosis.
     p.mb-4(data-aos="fade-down") La alteración en cualquiera de estos parámetros puede indicar compromiso respiratorio. La obstrucción de la vía aérea o la ausencia de respiración constituyen emergencias vitales que requieren intervención inmediata mediante técnicas como el manejo de obstrucción por cuerpo extraño en la vía aérea (OVACE) o la reanimación cardiopulmonar (RCP), de acuerdo con los lineamientos vigentes (Cruz Roja Colombiana, 2021).
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12

@@ -57,11 +57,11 @@
               .col-lg-12
                 .tarjeta.clr--pink.p-4.rounded-0.h-100
                   .tarjeta.bg-white.p-4
-                    //- #t_1_4.titulo-segundo.color-acento-contenido.mb-4(data-aos="flip-up")
-                    //-   h2 Pódcast
+                    #t_1_4.titulo-segundo.color-acento-contenido.mb-4(data-aos="flip-up")
+                      h2 Pódcast
                     TarjetaAudio.color-acento-botones.mb-3(
                     texto="Pódcast"
-                    :audio="require('@/assets/curso/audio/Podcast_CF01_11220133.mp3')"
+                    :audio="require('@/assets/curso/audio/Podcast_CF02_33110233.mp3')"
                     @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 )
                     .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
